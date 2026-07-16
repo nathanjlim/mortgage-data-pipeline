@@ -1,0 +1,9 @@
+# Ignore data files
+*.csv
+*.xlsx
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
